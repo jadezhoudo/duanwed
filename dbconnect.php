@@ -1,4 +1,6 @@
 <?php 
-$conn = 
+$conn = mysqli_connect('127.0.0.1', 'root', '', 'salomon') or die('khong ket noi duoc');
+
+
 
 ?>
